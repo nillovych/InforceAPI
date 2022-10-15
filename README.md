@@ -8,7 +8,7 @@ Open the local host(link will appear in terminal).
 
 To check work of authorizations use superuser: 
             {
-                log: root, 
+                log: root 
                 pass: 1234
             }
 
